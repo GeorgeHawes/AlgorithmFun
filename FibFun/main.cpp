@@ -1,0 +1,14 @@
+//
+//  main.cpp
+//  FibFun
+//
+//  Created by George Hawes on 08/11/2025.
+//
+
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    std::cout << "Hello, World!\n";
+    return EXIT_SUCCESS;
+}
